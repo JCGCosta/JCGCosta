@@ -1,6 +1,6 @@
 ## Júlio César Guimarães Costa
 
-<img src="https://i.postimg.cc/7ZY80kdL/LOGO-JCGCOST-CIRCULAR.png" width="260px" border-radius="100px" img align="right">
+<img src="https://i.postimg.cc/7ZY80kdL/LOGO-JCGCOST-CIRCULAR.png" width="220px" border-radius="100px" img align="right">
 
 ‣ I'm a Msc. student in Computing at the The Polytechnic Institute of Bragança - Bragança - Portugal. <br/>
 ‣ I have a good knowledge of [Management Software](https://github.com/stars/JCGCosta/lists/management-software), [Data Science](https://github.com/stars/JCGCosta/lists/data-science), [Computer Vision](https://github.com/stars/JCGCosta/lists/computer-vision-and-graphics) and [Game Development](https://github.com/stars/JCGCosta/lists/game-development). *Click to more info.* <br/>
