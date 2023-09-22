@@ -3,7 +3,7 @@
 <img src="https://i.postimg.cc/7ZY80kdL/LOGO-JCGCOST-CIRCULAR.png" width="160px" border-radius="100px" img align="right">
 
 ‣ I'm a Msc. student in Computing at the The Polytechnic Institute of Bragança - Bragança - Portugal. <br/>
-‣ I have a good knowledge of [Management Software](https://github.com/stars/JCGCosta/lists/management-software), [Data Science](https://github.com/stars/JCGCosta/lists/data-science), [Computer Vision](https://github.com/stars/JCGCosta/lists/computer-vision-and-graphics) and [Game Development](https://github.com/stars/JCGCosta/lists/game-development). *Click to more info.* <br/>
+‣ I have a good knowledge of [Management Software](https://github.com/stars/JCGCosta/lists/management-software), [Data Science](https://github.com/stars/JCGCosta/lists/data-science), [Computer Vision](https://github.com/stars/JCGCosta/lists/computer-vision-and-graphics), [Game Development](https://github.com/stars/JCGCosta/lists/game-development) and [Coding Challenges](https://github.com/stars/JCGCosta/lists/code-challenges). *Click to more info.* <br/>
 ‣ I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julio%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/jcgcost/)
