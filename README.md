@@ -2,14 +2,16 @@
 
 <img src="https://i.postimg.cc/7ZY80kdL/LOGO-JCGCOST-CIRCULAR.png" width="160px" border-radius="100px" img align="right">
 
-‣ I'm a Msc. student in Computing at the The Polytechnic Institute of Bragança - Bragança - Portugal. <br/>
-‣ I have a good knowledge of [Management Software](https://github.com/stars/JCGCosta/lists/management-software), [Data Science](https://github.com/stars/JCGCosta/lists/data-science), [Computer Vision](https://github.com/stars/JCGCosta/lists/computer-vision-and-graphics), [Game Development](https://github.com/stars/JCGCosta/lists/game-development) and [Coding Challenges](https://github.com/stars/JCGCosta/lists/code-challenges). *Click to more info.* <br/>
+‣ I'm a Master of Science in Computing from the The Polytechnic Institute of Bragança (Portugal) and a Bachelor of Science in Computer Science from the Federal University of Technology – Paraná (Brazil).<br/>
+‣ To understand more about my expertises please see the following links: [Management Software](https://github.com/stars/JCGCosta/lists/management-software), [Data Science](https://github.com/stars/JCGCosta/lists/data-science), [Computer Vision](https://github.com/stars/JCGCosta/lists/computer-vision-and-graphics), [Game Development](https://github.com/stars/JCGCosta/lists/game-development) and [Coding Challenges](https://github.com/stars/JCGCosta/lists/code-challenges). *Click to more info.* <br/>
 ‣ I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Julio%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-vieira-483a7820b/)](https://www.linkedin.com/in/jcgcost/)
-[![Gmail Badge](https://img.shields.io/badge/-juliocosta@alunos.utfpr.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanda@manzoti.com)](mailto:juliocesargcosta123@gmail.com)
+‣ Also, as I'm working as a Researcher you can also check my academic curriculum at [ORCID](https://orcid.org/0000-0002-7620-0960).
 
-## Technologies
+[![Linkedin Badge](https://img.shields.io/badge/-Julio%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jcgcost/)](https://www.linkedin.com/in/jcgcost/)
+[![Gmail Badge](https://img.shields.io/badge/-juliocesargcosta123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocesargcosta123@gmail.com)](mailto:juliocesargcosta123@gmail.com)
+
+## Technologies you will find in my Repositories.
 
 ![Python](https://img.shields.io/badge/python-007ACC.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
