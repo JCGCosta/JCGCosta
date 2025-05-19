@@ -2,7 +2,7 @@
 
 <img src="https://i.postimg.cc/7ZY80kdL/LOGO-JCGCOST-CIRCULAR.png" width="160px" border-radius="100px" img align="right">
 
-‣ I'm a Master of Science in Computing from the The Polytechnic Institute of Bragança (Portugal) and a Bachelor of Science in Computer Science from the Federal University of Technology – Paraná (Brazil).<br/>
+‣ I'm a Master of Science in Computing from the The Polytechnic Institute of Bragança (Portugal) and Bachelor of Science in Computer Science from the Federal University of Technology – Paraná (Brazil).<br/>
 ‣ To understand more about my expertises please see the following links: [Management Software](https://github.com/stars/JCGCosta/lists/management-software), [Data Science](https://github.com/stars/JCGCosta/lists/data-science), [Computer Vision](https://github.com/stars/JCGCosta/lists/computer-vision-and-graphics), [Game Development](https://github.com/stars/JCGCosta/lists/game-development) and [Coding Challenges](https://github.com/stars/JCGCosta/lists/code-challenges). *Click to more info.* <br/>
 ‣ I'm willing to learn new things and gain experience in various areas. So, every opportunity is gold! <br/>
 
